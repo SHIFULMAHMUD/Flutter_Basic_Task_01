@@ -10,7 +10,6 @@ class AppWidget extends StatefulWidget {
 }
 
 class _AppWidgetState extends State<AppWidget> {
-
   String text = 'Hello World!';
 
   @override
